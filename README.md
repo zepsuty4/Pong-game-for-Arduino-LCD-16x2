@@ -1,6 +1,9 @@
 # Pong Game for Arduino LCD 16x2
 A simple Pong game designed for Arduino using 3 buttons and an LCD 16x2 display.
 
+
+AI generated slop:
+
 ---
 
 ## 🌐 Try it Online!
@@ -40,20 +43,6 @@ Keep the ball from passing your paddle by moving it up or down.
 
 ---
 
-## 🔧 To-Do List
-✔️ Basic Menu System  
-✔️ Working Game with PvP Mode  
-✔️ Functional PvPC Mode  
-
-🟠 Add more options  
-🟠 Add gameover sceen  
-🟠 Fix remaining bugs  
-🟠 Improve PC logic for better gameplay  
-🟠 Optimize code for readability and performance  
-🟠 Add sound effects using a buzzer (optional)  
-
----
-
 ## 📜 How to Upload to Arduino
 1. Connect your Arduino UNO board to your computer.
 2. Install the required **LiquidCrystal** library.
@@ -68,10 +57,3 @@ Keep the ball from passing your paddle by moving it up or down.
 - 3 push buttons
 - 10K potentiometer (for LCD contrast)
 - Connecting wires and breadboard
-
----
-
-## 🤝 Contributions
-Since this project is part of my learning process, I would be incredibly grateful for any feedback, suggestions, or improvements you can share. Feel free to fork the repository and submit a pull request.  
-
-Happy coding! 😊
