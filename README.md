@@ -1,8 +1,7 @@
 # Pong Game for Arduino LCD 16x2
 A simple Pong game designed for Arduino using 3 buttons and an LCD 16x2 display.
 
-
-AI generated slop:
+readme is AI generated slop
 
 ---
 
@@ -11,12 +10,6 @@ You can experience the game directly in your browser via Wokwi:
 👉 [Play Pong on Wokwi](https://wokwi.com/projects/424770408827590657)  
 
 No Arduino hardware required — just jump in and play!
-
----
-
-## 🎯 About the Project
-This project was created as part of my journey to learn **C++** and improve my programming skills. I'm constantly working to enhance the code and gameplay.  
-I would be grateful for any feedback, suggestions, or tips to help me improve! 😊  
 
 ---
 
